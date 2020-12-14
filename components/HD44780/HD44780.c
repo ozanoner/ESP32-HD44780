@@ -4,7 +4,7 @@
 #include <freertos/task.h>
 #include <stdio.h>
 #include "sdkconfig.h"
-#include "rom/ets_sys.h"
+#include "esp32/rom/ets_sys.h"
 #include <esp_log.h>
 
 // LCD module defines
